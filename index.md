@@ -1,14 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Emilie Raud Westberg's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Emilie Raud Westberg
+Backend software developer, Scrum master.
 
 
 ## Currently
@@ -26,49 +21,20 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
+`Jan - Apr 2016`
+__Accelerated Learning Program in C# and .NET, Academic Work Academy, Stockholm__
+- Blabla
 
-`1654-1660`
-__The King's School, Grantham.__
+`Aug 2009 - June 2015`
+__MSc. Industrial Engineering and Management (300 ECTS), Linköping University__
+- Technical specialization: Mechanical Engineering, Master specialty: Strategy and Management Control. GPA: 4,0 [5,0].
+
+`Jan - June 2015`
+__Master's Thesis (30 ECTS), SenionLab AB, Linköping__
+- Thesis focusing on marketing strategies in the context of high-technology startups. Assigned my IPS (Indoor Positioning systems) firm SenionLab AB. Title: Marketing Strategies for Crossing the Chasm - How to increase the chanses for success in high-tech startups.
 
 `June 1661 - now`
 __Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
@@ -86,6 +52,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2021 -->
 
 
