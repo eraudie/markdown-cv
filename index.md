@@ -32,16 +32,27 @@ __Accelerated Learning Program in C# and .NET, Academic Work Academy__, Stockhol
 
 `Aug 2009 - June 2015`
 __MSc. Industrial Engineering and Management, Linköping University__, Linköping, Sweden
-- Technical specialization: Mechanical Engineering, Master specialty: Strategy and Management Control.
+- Technical specialization: Mechanical Engineering
+- Master specialty: Strategy and Management Control
 
 `Jan - June 2015`
 __Master's Thesis, SenionLab AB__, Linköping, Sweden
-- Thesis focusing on marketing strategies in the context of high-technology startups. Assigned my IPS (Indoor Positioning systems) firm SenionLab AB. Title: Marketing Strategies for Crossing the Chasm - How to increase the chanses for success in high-tech startups.
+- Thesis focusing on marketing strategies in the context of high-technology startups. Assigned my IPS (Indoor Positioning systems) firm SenionLab AB. 
+- Title: Marketing Strategies for Crossing the Chasm - How to increase the chances for success in high-tech startups.
 
 
 ## Experience
 `Mar 2018 - Present`
-__Software Developer and Scrum Master, Livförsäkringsbolaget Skandia, ömsesidigt__, Stockholm, Sweden
+__Software Developer & Scrum Master, Livförsäkringsbolaget Skandia, ömsesidigt__, Stockholm, Sweden
+- Part of a development team delivering to Skandiabanken
+- The team's responsibility is to improve how customers open bank accounts, pay their bills, send money to friends using direct payment such as Swish, manage cards... well, all kinds of banking-matters you need on a daily basis. They are delivering new functionality as well as adding compliance with new EU-regulations. Anders' primary responsibilities are advisement on requirements and leading the backend development.
+- Front end and back end
+- Compliancy with regulations
+- Open Banking
+- Maintenance
+- Agile work methodics 
+- CI/CD pipelines and automated builds
+- Release coordination weekly
 
 `Apr 2016 - Mar 2018`
 __Software Developer, Emric AB (A part of Tieto Group)__, Stockholm, Sweden
