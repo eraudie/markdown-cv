@@ -5,6 +5,11 @@ title: Emilie Raud Westberg's CV
 # Emilie Raud Westberg
 Backend software developer, Scrum master.
 
+<div id="webaddress">
+<a href="emilie.westberg@gmail.com">emilie.westberg@gmail.com</a>
+| <a href="https://www.linkedin.com/in/emilie-r-w/">My LinkedIn page</a>
+| <a href="https://github.com/eraudie">My GitHub page</a>
+</div>
 
 ## Currently
 
