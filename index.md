@@ -23,7 +23,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 ## Education
 `Jan - Apr 2016`
 __Accelerated Learning Program in C# and .NET, Academic Work Academy, Stockholm__
-- Blabla
+- Program for software development for 12 weeks. Themes studied were backend tools (C# and .NET), frontend tools (HTML, CSS, JavaScript, and Jquery), ASP.NET, and UX design.
 
 `Aug 2009 - June 2015`
 __MSc. Industrial Engineering and Management (300 ECTS), Linköping University__
@@ -38,15 +38,12 @@ __Trinity College, Cambridge__
 
 
 ## Occupation
+`Mar 2018 - Present`
+__Livförsäkringsbolaget Skandia, ömsesidigt, Software Developer and Scrum Master, Stockholm__
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Apr 2016 - Mar 2018`
+__Emric AB (A part of Tieto Group), Software Developer, Stockholm__,
+- New development and maintenance of Delphi-based credit processing software, .NET web services, SQL Sever database management and creating business intelligence through SQL Server Integration Services.
 
 
 
