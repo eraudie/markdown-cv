@@ -8,7 +8,7 @@ Backend software developer, Scrum master.
 <div id="webaddress">
 <a href="emilie.westberg@gmail.com">emilie.westberg@gmail.com</a>
 | <a href="https://www.linkedin.com/in/emilie-r-w/">My LinkedIn page</a>
-| <a href="https://github.com/eraudie">My GitHub page</a>
+| <a href="https://github.com/eraudie"><i class="fab fa-github"></i> eraudie</a>
 </div>
 
 ## Currently
@@ -27,27 +27,24 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 `Jan - Apr 2016`
-__Accelerated Learning Program in C# and .NET, Academic Work Academy, Stockholm__
+__Accelerated Learning Program in C# and .NET, Academic Work Academy__, Stockholm, Sweden
 - Program for software development for 12 weeks. Themes studied were backend tools (C# and .NET), frontend tools (HTML, CSS, JavaScript, and Jquery), ASP.NET, and UX design.
 
 `Aug 2009 - June 2015`
-__MSc. Industrial Engineering and Management (300 ECTS), Linköping University__
-- Technical specialization: Mechanical Engineering, Master specialty: Strategy and Management Control. GPA: 4,0 [5,0].
+__MSc. Industrial Engineering and Management, Linköping University__, Linköping, Sweden
+- Technical specialization: Mechanical Engineering, Master specialty: Strategy and Management Control.
 
 `Jan - June 2015`
-__Master's Thesis (30 ECTS), SenionLab AB, Linköping__
+__Master's Thesis, SenionLab AB__, Linköping, Sweden
 - Thesis focusing on marketing strategies in the context of high-technology startups. Assigned my IPS (Indoor Positioning systems) firm SenionLab AB. Title: Marketing Strategies for Crossing the Chasm - How to increase the chanses for success in high-tech startups.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
 
-
-## Occupation
+## Experience
 `Mar 2018 - Present`
-__Livförsäkringsbolaget Skandia, ömsesidigt, Software Developer and Scrum Master, Stockholm__
+__Software Developer and Scrum Master, Livförsäkringsbolaget Skandia, ömsesidigt__, Stockholm, Sweden
 
 `Apr 2016 - Mar 2018`
-__Emric AB (A part of Tieto Group), Software Developer, Stockholm__,
+__Software Developer, Emric AB (A part of Tieto Group)__, Stockholm, Sweden
 - New development and maintenance of Delphi-based credit processing software, .NET web services, SQL Sever database management and creating business intelligence through SQL Server Integration Services.
 
 
